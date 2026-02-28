@@ -2,7 +2,7 @@
 
 # Theme613
 
-### Full-Stack & AI Developer · AWS Certified · Malaysia 🇲🇾
+### Full-Stack & AI Developer · AWS Certified · Malaysia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theme613)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/theme613)
@@ -16,19 +16,19 @@
 
 ---
 
-## 🏆 Career Highlights
+## Career Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-**🥇 Top 20 — AWS National Competition**
+**Top 20 — AWS National Competition**
 > Competed against university-level teams and placed in the Top 20 as a self-taught developer.
 
 </td>
 <td width="50%">
 
-**☁️ 3× AWS Certified (at 19)**
+**3× AWS Certified (at 19)**
 > Generative AI · Machine Learning Foundations · ML for NLP — earned through rigorous AWS Academy programs.
 
 </td>
@@ -36,13 +36,13 @@
 <tr>
 <td width="50%">
 
-**🚀 Multiple Production Deployments**
+**Multiple Production Deployments**
 > All projects are live, deployed, and accessible — not just code in a repo.
 
 </td>
 <td width="50%">
 
-**🧠 Self-Taught Developer**
+**Self-Taught Developer**
 > Everything built from scratch through hands-on learning, documentation, and experimentation — no bootcamp, no degree.
 
 </td>
@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -79,9 +79,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🖼️ AWS AI Thumbnail Analyzer
+### AWS AI Thumbnail Analyzer
 > **AI-powered image analysis platform built on AWS cloud infrastructure**
 
 <a href="https://aws-ai-thumbnail-analyzer-neakhwvo5-theme613s-projects.vercel.app/">
@@ -95,7 +95,7 @@
 
 ---
 
-### 📊 Presentation Slide Outliner
+### Presentation Slide Outliner
 > **AI assistant that generates structured slide outlines from any topic in seconds**
 
 <a href="https://presentation-slide-outliner-7dn5dqk5l-theme613s-projects.vercel.app/">
@@ -109,7 +109,7 @@
 
 ---
 
-### ⛽ Web3 Gas Tracker (ETHGlobal Hackathon)
+### Web3 Gas Tracker (ETHGlobal Hackathon)
 > **Real-time Ethereum gas price tracker built for the ETHGlobal hackathon**
 
 <a href="https://web3-gas-tracker-openclaw-can-9eq0oyksk-theme613s-projects.vercel.app/">
@@ -123,7 +123,7 @@
 
 ---
 
-## ☁️ AWS Certifications
+## AWS Certifications
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -147,18 +147,18 @@
 
 ---
 
-## 💼 Open to Opportunities
+## Open to Opportunities
 
 I'm actively looking for **remote** or **hybrid roles** in:
 
-- 🤖 **AI / ML Engineering** — building intelligent features using LLMs, AWS AI services, and Gemini
-- 🌐 **Frontend Development** — React, Next.js, responsive design, modern UI/UX
-- ☁️ **Cloud Engineering** — AWS-first architectures, serverless, and deployment pipelines
-- 🧱 **Full-Stack Development** — end-to-end product building and shipping
+- **AI / ML Engineering** — building intelligent features using LLMs, AWS AI services, and Gemini
+- **Frontend Development** — React, Next.js, responsive design, modern UI/UX
+- **Cloud Engineering** — AWS-first architectures, serverless, and deployment pipelines
+- **Full-Stack Development** — end-to-end product building and shipping
 
 <div align="center">
 
-### Let's connect 👇
+### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theme613)
 
